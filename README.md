@@ -65,11 +65,11 @@ enterprise-sales-dashboard/
 ├── dataset/
 │   └── sales_orders_data.csv
 │
-├── screenshots/
-│   ├── overview.png
-│   ├── sales_trends.png
-│   ├── delivery_performance.png
-│   └── discount_analysis.png
+├── images/
+│   ├── Overview.png
+│   ├── Sales_Trends.png
+│   ├── Order_Performance.png
+│   └── Discount_Analysis.png
 │
 └── README.md
 ```
@@ -105,11 +105,17 @@ enterprise-sales-dashboard/
 ---
 
 ## Dashboard
+### Overview
+![Dashboard Overview](images/Overview.png)
 
-- `overview.png` – Full dashboard with KPIs and slicers
-- `sales_trends.png` – Revenue and profit trends with drill-down
-- `order_performance.png` - Order fulfillment performance
-- `discount_analysis.png` – Discount impact on profitability
+### Sales & Profit Trends
+![Sales Trends](images/Sales_Trends.png)
+
+### Order Performance
+![Order Performance](images/Order_Performance.png)
+
+### Discount Analysis
+![Discount Analysis](images/Discount_Analysis.png)
 
 ---
 
