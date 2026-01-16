@@ -57,7 +57,7 @@ The architecture prioritizes clarity, performance, and usability for decision-ma
 ---
 
 ## Project Structure
-
+```
 enterprise-sales-dashboard/
 ├── dashboard/
 │   └── Enterprise_Sales_Operations.pbix
@@ -72,7 +72,7 @@ enterprise-sales-dashboard/
 │   └── discount_analysis.png
 │
 └── README.md
-
+```
 
 ---
 
@@ -108,7 +108,7 @@ enterprise-sales-dashboard/
 
 - `overview.png` – Full dashboard with KPIs and slicers
 - `sales_trends.png` – Revenue and profit trends with drill-down
-- `delivery_performance.png` – Delivery metrics and SLA insights
+- `order_performance.png` - Order fulfillment performance
 - `discount_analysis.png` – Discount impact on profitability
 
 ---
